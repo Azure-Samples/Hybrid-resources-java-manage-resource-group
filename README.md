@@ -4,7 +4,7 @@ platforms: java
 author: viananth
 ---
 
-## Getting Started with Resources - Manage Resource Group - in Java ##
+# Hybrid-Resources-Java-Manage-ResourceGroup #
 
 
   Azure Stack Resource sample for managing resource groups -
