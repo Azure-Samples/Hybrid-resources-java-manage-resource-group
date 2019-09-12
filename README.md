@@ -1,7 +1,11 @@
 ---
-services: Azure-Stack
-platforms: java
-author: viananth
+page_type: sample
+languages:
+- java
+products:
+- azure
+description: "Azure Stack Resource sample for managing resource groups"
+urlFragment: Hybrid-resources-java-manage-resource-group
 ---
 
 # Hybrid-Resources-Java-Manage-ResourceGroup #
