@@ -4,11 +4,11 @@ languages:
 - java
 products:
 - azure
-description: "Azure Stack Resource sample for managing resource groups"
+description: "Azure Stack Resource sample for managing resource groups."
 urlFragment: Hybrid-resources-java-manage-resource-group
 ---
 
-# Hybrid-Resources-Java-Manage-ResourceGroup #
+# Hybrid-Resources-Java-Manage-ResourceGroup
 
 
   Azure Stack Resource sample for managing resource groups -
@@ -19,7 +19,7 @@ urlFragment: Hybrid-resources-java-manage-resource-group
   - Delete a resource group.
  
 
-## Running this Sample ##
+## Running this Sample
 
 To run this sample:
 
@@ -50,10 +50,8 @@ To run this sample:
 5. Run the sample:
     * mvn clean compile exec:java
 
-## More information ##
+## More information
 
 [http://azure.com/java](http://azure.com/java)
-
----
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
