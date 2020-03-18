@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.microsoft.azure</groupId>
-  <artifactId>hybrid-compute-java-manage-vm</artifactId>
+  <artifactId>resources-java-manage-resource-group</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>ManageVirtualMachine.java</name>
+  <name>ManageResourceGroup.java</name>
   <description></description>
-  <url>https://github.com/Azure-Samples/hybrid-compute-java-manage-vm</url>
+  <url>https://github.com/Azure-Samples/resources-java-manage-resource-group</url>
   <build>
     <plugins>
       <plugin>
@@ -15,7 +15,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.4.0</version>
         <configuration>
-          <mainClass>com.microsoft.azure.management.compute.samples.ManageVirtualMachine</mainClass>
+          <mainClass>com.microsoft.azure.management.resources.samples.ManageResourceGroup</mainClass>
         </configuration>
       </plugin>
       <plugin>
@@ -40,7 +40,7 @@
               </descriptorRefs>
               <archive>
                 <manifest>
-                  <mainClass>com.microsoft.azure.management.compute.samples.ManageVirtualMachine.java</mainClass>
+                  <mainClass>com.microsoft.azure.management.resources.samples.ManageResourceGroup.java</mainClass>
                 </manifest>
               </archive>
             </configuration>
