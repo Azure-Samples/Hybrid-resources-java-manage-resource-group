@@ -15,8 +15,8 @@ import com.microsoft.azure.AzureEnvironment;
 import com.microsoft.azure.arm.utils.SdkContext;
 import com.microsoft.azure.credentials.ApplicationTokenCredentials;
 import com.microsoft.azure.credentials.AzureTokenCredentials;
-import com.microsoft.azure.management.profile_2018_03_01_hybrid.Azure;
-import com.microsoft.azure.management.resources.v2018_02_01.ResourceGroup;
+import com.microsoft.azure.management.profile_2019_03_01_hybrid.Azure;
+import com.microsoft.azure.management.resources.v2018_05_01.ResourceGroup;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
